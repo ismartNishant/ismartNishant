@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on React.JS at iTrackr
-- 🌱 I’m currently learning Material UI, TypeScript,
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... HE/His
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Nishant, always madly craving for learning new emerging technologies and building real-world applications.
+- 🔭 I’m currently working  at iTrackr and oKayG as an intern.
+- 🌱 I’m currently learning Material UI and UI/UX.
+- 👀 I’m interested in Frontend web development and UI/UX.
+- 📫 How to reach me: nishantrajputa11@gmail.com
+- 🌐 My PortFolio: https://angry-poitras-257ac9.netlify.app/
+- 😄 Pronouns:  HE/His
 
