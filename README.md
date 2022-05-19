@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nishant, always madly craving for learning new emerging technologies and building real-world applications and modern UI/UX.
+- 👋 Hi, I’m Nishant, always madly craving for learning new emerging technologies and designing  modern UI/UX.
 - 🔭 I’m currently working  at iTrackr and oKayG as an intern.
 - 🌱 I’m currently learning UI/UX.
 - 👀 I’m interested in Frontend web development and UI/UX.
